@@ -1,0 +1,29 @@
+#box1 {
+    background-color: red;
+    margin-left: 300px;
+}
+#box2 {
+    background-color: blue;
+    margin-left: 200px;
+}
+#box3 {
+    background-color: red;
+    margin-left: 300px;
+}
+#box4 {
+    background-color: blue;
+    margin-left: 200px;
+}
+
+#box4 img {
+    object-fit: cover;
+    width: 100%;
+    aspect-ratio: 1;
+    display: block;
+}
+.box {
+    width: 200px;
+    aspect-ratio: 1;
+    margin-top: 300px;
+    float: left;
+}
