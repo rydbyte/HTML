@@ -1,0 +1,17 @@
+:root{
+    --azure: #F0FFFF;
+    --black: #000711;
+    --grey: #171616;
+    --grey2: #3f3f3f;
+    --red: #D22B2B;
+}
+
+@font-face {
+    font-family: 'CustomFont';
+    src: url('resources/music.ttf'); /* IE9 Compat Modes */
+    src: url('resources/music.ttf?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('resources/music.ttf') format('woff2'), /* Super Modern Browsers */
+    url('resources/music.ttf') format('woff'), /* Pretty Modern Browsers */
+    url('resources/music.ttf')  format('truetype'), /* Safari, Android, iOS */
+    url('resources/music.ttf#svgFontName') format('svg'); /* Legacy iOS */
+}
